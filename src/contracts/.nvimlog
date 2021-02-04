@@ -1,0 +1,63 @@
+INFO  2021-01-31T23:05:03.088 65059 on_process_exit:392: exited: pid=65068 status=0 stoptime=0
+INFO  2021-01-31T23:05:03.088 65059 main:559: starting main loop
+INFO  2021-01-31T23:05:06.533 65059 os_proc_tree_kill:96: sending SIGTERM to PID -65061
+INFO  2021-01-31T23:05:06.536 65059 on_process_exit:392: exited: pid=65061 status=143 stoptime=27424425121971
+INFO  2021-01-31T23:05:06.536 65059 os_exit:586: Nvim exit: 0
+INFO  2021-01-31T23:06:11.901 65208 on_process_exit:392: exited: pid=65217 status=0 stoptime=0
+INFO  2021-01-31T23:06:11.901 65208 main:559: starting main loop
+INFO  2021-01-31T23:47:31.771 65208 os_proc_tree_kill:96: sending SIGTERM to PID -65210
+INFO  2021-01-31T23:47:31.774 65208 on_process_exit:392: exited: pid=65210 status=143 stoptime=29969662582644
+INFO  2021-01-31T23:47:31.775 65208 os_exit:586: Nvim exit: 0
+INFO  2021-01-31T23:47:42.506 68504 set_init_2:754: startup runtimepath/packpath value: /home/trevor/.config/nvim,/etc/xdg/nvim,/home/trevor/.local/share/nvim/site,/home/trevor/.local/share/flatpak/exports/share/nvim/site,/var/lib/flatpak/exports/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib64/nvim,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/flatpak/exports/share/nvim/site/after,/home/trevor/.local/share/flatpak/exports/share/nvim/site/after,/home/trevor/.local/share/nvim/site/after,/etc/xdg/nvim/after,/home/trevor/.config/nvim/after
+INFO  2021-01-31T23:47:42.511 68504 patch_terminfo_bugs:1696: Disabling smglr with TERM=xterm for non-xterm.
+INFO  2021-01-31T23:47:42.594 68504 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>28_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-31T23:47:42.681 68504 on_process_exit:392: exited: pid=68513 status=0 stoptime=0
+INFO  2021-01-31T23:47:42.681 68504 main:559: starting main loop
+INFO  2021-01-31T23:49:46.351 68504 os_proc_tree_kill:96: sending SIGTERM to PID -68506
+INFO  2021-01-31T23:49:46.356 68504 on_process_exit:392: exited: pid=68506 status=143 stoptime=30104242727264
+INFO  2021-01-31T23:49:46.357 68504 os_exit:586: Nvim exit: 0
+INFO  2021-01-31T23:55:48.551 69951 set_init_2:754: startup runtimepath/packpath value: /home/trevor/.config/nvim,/etc/xdg/nvim,/home/trevor/.local/share/nvim/site,/home/trevor/.local/share/flatpak/exports/share/nvim/site,/var/lib/flatpak/exports/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib64/nvim,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/flatpak/exports/share/nvim/site/after,/home/trevor/.local/share/flatpak/exports/share/nvim/site/after,/home/trevor/.local/share/nvim/site/after,/etc/xdg/nvim/after,/home/trevor/.config/nvim/after
+INFO  2021-01-31T23:55:48.552 69951 patch_terminfo_bugs:1696: Disabling smglr with TERM=xterm for non-xterm.
+INFO  2021-01-31T23:55:48.614 69951 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>31_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-31T23:55:48.695 69951 on_process_exit:392: exited: pid=69961 status=0 stoptime=0
+INFO  2021-01-31T23:55:48.695 69951 main:559: starting main loop
+INFO  2021-01-31T23:56:01.511 69951 os_proc_tree_kill:96: sending SIGTERM to PID -69954
+INFO  2021-01-31T23:56:01.513 69951 on_process_exit:392: exited: pid=69954 status=143 stoptime=30479402685582
+INFO  2021-01-31T23:56:01.513 69951 os_exit:586: Nvim exit: 0
+INFO  2021-02-01T00:06:55.749 71368 set_init_2:754: startup runtimepath/packpath value: /home/trevor/.config/nvim,/etc/xdg/nvim,/home/trevor/.local/share/nvim/site,/home/trevor/.local/share/flatpak/exports/share/nvim/site,/var/lib/flatpak/exports/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib64/nvim,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/flatpak/exports/share/nvim/site/after,/home/trevor/.local/share/flatpak/exports/share/nvim/site/after,/home/trevor/.local/share/nvim/site/after,/etc/xdg/nvim/after,/home/trevor/.config/nvim/after
+INFO  2021-02-01T00:06:55.750 71368 patch_terminfo_bugs:1696: Disabling smglr with TERM=xterm for non-xterm.
+INFO  2021-02-01T00:06:55.812 71368 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>33_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-02-01T00:06:55.892 71368 on_process_exit:392: exited: pid=71377 status=0 stoptime=0
+INFO  2021-02-01T00:06:55.892 71368 main:559: starting main loop
+INFO  2021-02-01T00:08:05.669 71368 on_process_exit:392: exited: pid=71451 status=0 stoptime=0
+INFO  2021-02-01T00:08:05.673 71368 on_process_exit:392: exited: pid=71456 status=0 stoptime=0
+INFO  2021-02-01T00:08:05.683 71368 channel_create_event:204: new channel 4 (function fzf#vim#files[15]..<SNR>89_fzf[20]..fzf#run[59]..<SNR>36_execute_term:67) : {"id": 4, "mode": "terminal", "stream": "job", "pty": "/dev/pts/7", "buffer": 3}
+INFO  2021-02-01T00:08:14.233 71368 on_process_exit:392: exited: pid=71461 status=130 stoptime=0
+INFO  2021-02-01T00:08:21.611 71368 channel_create_event:204: new channel 5 (function fzf#vim#files[15]..<SNR>89_fzf[20]..fzf#run[59]..<SNR>36_execute_term:67) : {"id": 5, "mode": "terminal", "stream": "job", "pty": "/dev/pts/7", "buffer": 4}
+INFO  2021-02-01T00:08:22.918 71368 on_process_exit:392: exited: pid=71510 status=130 stoptime=0
+INFO  2021-02-01T00:08:33.173 71368 channel_create_event:204: new channel 6 (function fzf#vim#files[15]..<SNR>89_fzf[20]..fzf#run[59]..<SNR>36_execute_term:67) : {"id": 6, "mode": "terminal", "stream": "job", "pty": "/dev/pts/7", "buffer": 5}
+INFO  2021-02-01T00:08:34.821 71368 on_process_exit:392: exited: pid=71554 status=130 stoptime=0
+INFO  2021-02-01T00:10:24.829 71368 channel_create_event:204: new channel 7 (function fzf#vim#buffer_lines[3]..<SNR>89_fzf[20]..fzf#run[59]..<SNR>36_execute_term:67) : {"id": 7, "mode": "terminal", "stream": "job", "pty": "/dev/pts/8", "buffer": 6}
+INFO  2021-02-01T00:10:29.630 71368 on_process_exit:392: exited: pid=72247 status=130 stoptime=0
+INFO  2021-02-01T00:10:32.729 71368 channel_create_event:204: new channel 8 (function RipgrepFzf[5]..fzf#vim#grep[24]..<SNR>89_fzf[20]..fzf#run[59]..<SNR>36_execute_term:67) : {"id": 8, "mode": "terminal", "stream": "job", "pty": "/dev/pts/8", "buffer": 7}
+INFO  2021-02-01T00:10:39.875 71368 on_process_exit:392: exited: pid=72272 status=130 stoptime=0
+INFO  2021-02-01T00:10:40.570 71368 channel_create_event:204: new channel 9 (function fzf#vim#files[15]..<SNR>89_fzf[20]..fzf#run[59]..<SNR>36_execute_term:67) : {"id": 9, "mode": "terminal", "stream": "job", "pty": "/dev/pts/8", "buffer": 8}
+INFO  2021-02-01T00:10:43.927 71368 on_process_exit:392: exited: pid=72480 status=130 stoptime=0
+INFO  2021-02-01T00:18:20.898 71368 os_proc_tree_kill:96: sending SIGTERM to PID -71370
+INFO  2021-02-01T00:18:20.900 71368 on_process_exit:392: exited: pid=71370 status=143 stoptime=31818789443913
+INFO  2021-02-01T00:18:20.900 71368 os_exit:586: Nvim exit: 0
+INFO  2021-02-01T00:18:36.257 73256 set_init_2:754: startup runtimepath/packpath value: /home/trevor/.config/nvim,/etc/xdg/nvim,/home/trevor/.local/share/nvim/site,/home/trevor/.local/share/flatpak/exports/share/nvim/site,/var/lib/flatpak/exports/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib64/nvim,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/flatpak/exports/share/nvim/site/after,/home/trevor/.local/share/flatpak/exports/share/nvim/site/after,/home/trevor/.local/share/nvim/site/after,/etc/xdg/nvim/after,/home/trevor/.config/nvim/after
+INFO  2021-02-01T00:18:36.258 73256 patch_terminfo_bugs:1696: Disabling smglr with TERM=xterm for non-xterm.
+INFO  2021-02-01T00:18:36.320 73256 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>33_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-02-01T00:19:55.457 73434 set_init_2:754: startup runtimepath/packpath value: /home/trevor/.config/nvim,/etc/xdg/nvim,/home/trevor/.local/share/nvim/site,/home/trevor/.local/share/flatpak/exports/share/nvim/site,/var/lib/flatpak/exports/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib64/nvim,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/flatpak/exports/share/nvim/site/after,/home/trevor/.local/share/flatpak/exports/share/nvim/site/after,/home/trevor/.local/share/nvim/site/after,/etc/xdg/nvim/after,/home/trevor/.config/nvim/after
+INFO  2021-02-01T00:19:55.462 73434 patch_terminfo_bugs:1696: Disabling smglr with TERM=xterm for non-xterm.
+INFO  2021-02-01T00:19:55.553 73434 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>33_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-02-01T00:19:55.638 73434 on_process_exit:392: exited: pid=73447 status=0 stoptime=0
+INFO  2021-02-01T00:19:55.638 73434 main:559: starting main loop
+INFO  2021-02-01T00:19:56.941 73434 on_process_exit:392: exited: pid=73448 status=0 stoptime=0
+INFO  2021-02-01T00:19:56.945 73434 on_process_exit:392: exited: pid=73453 status=0 stoptime=0
+INFO  2021-02-01T00:19:56.954 73434 channel_create_event:204: new channel 4 (function fzf#vim#files[15]..<SNR>112_fzf[20]..fzf#run[59]..<SNR>36_execute_term:67) : {"id": 4, "mode": "terminal", "stream": "job", "pty": "/dev/pts/8", "buffer": 2}
+INFO  2021-02-01T00:19:59.303 73434 on_process_exit:392: exited: pid=73458 status=130 stoptime=0
+INFO  2021-02-01T00:20:00.616 73434 os_proc_tree_kill:96: sending SIGTERM to PID -73436
+INFO  2021-02-01T00:20:00.619 73434 on_process_exit:392: exited: pid=73436 status=143 stoptime=31918507998702
+INFO  2021-02-01T00:20:00.619 73434 os_exit:586: Nvim exit: 0

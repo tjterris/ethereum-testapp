@@ -1,0 +1,9 @@
+INFO  2021-02-01T00:18:36.411 73256 on_process_exit:392: exited: pid=73269 status=0 stoptime=0
+INFO  2021-02-01T00:18:36.411 73256 main:559: starting main loop
+INFO  2021-02-01T00:18:41.834 73256 on_process_exit:392: exited: pid=73271 status=0 stoptime=0
+INFO  2021-02-01T00:18:41.839 73256 on_process_exit:392: exited: pid=73276 status=0 stoptime=0
+INFO  2021-02-01T00:18:41.850 73256 channel_create_event:204: new channel 4 (function fzf#vim#files[15]..<SNR>112_fzf[20]..fzf#run[59]..<SNR>36_execute_term:67) : {"id": 4, "mode": "terminal", "stream": "job", "pty": "/dev/pts/8", "buffer": 2}
+INFO  2021-02-01T00:18:49.630 73256 on_process_exit:392: exited: pid=73281 status=130 stoptime=0
+INFO  2021-02-01T00:18:53.947 73256 os_proc_tree_kill:96: sending SIGTERM to PID -73258
+INFO  2021-02-01T00:18:53.949 73256 on_process_exit:392: exited: pid=73258 status=143 stoptime=31851838182385
+INFO  2021-02-01T00:18:53.949 73256 os_exit:586: Nvim exit: 0

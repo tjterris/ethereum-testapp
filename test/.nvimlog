@@ -1,0 +1,28 @@
+INFO  2021-02-02T14:36:08.628 220042 set_init_2:754: startup runtimepath/packpath value: /home/trevor/.config/nvim,/etc/xdg/nvim,/home/trevor/.local/share/nvim/site,/home/trevor/.local/share/flatpak/exports/share/nvim/site,/var/lib/flatpak/exports/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib64/nvim,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/flatpak/exports/share/nvim/site/after,/home/trevor/.local/share/flatpak/exports/share/nvim/site/after,/home/trevor/.local/share/nvim/site/after,/etc/xdg/nvim/after,/home/trevor/.config/nvim/after
+INFO  2021-02-02T14:36:08.632 220042 patch_terminfo_bugs:1696: Disabling smglr with TERM=xterm for non-xterm.
+INFO  2021-02-02T14:36:08.717 220042 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>33_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-02-02T14:36:08.807 220042 on_process_exit:392: exited: pid=220051 status=0 stoptime=0
+INFO  2021-02-02T14:36:08.810 220042 on_process_exit:392: exited: pid=220052 status=0 stoptime=0
+INFO  2021-02-02T14:36:08.818 220042 on_process_exit:392: exited: pid=220053 status=0 stoptime=0
+INFO  2021-02-02T14:36:08.818 220042 main:559: starting main loop
+INFO  2021-02-02T14:38:22.559 220042 on_process_exit:392: exited: pid=220327 status=0 stoptime=0
+INFO  2021-02-02T14:38:23.672 220042 channel_create_event:204: new channel 4 (function provider#clipboard#Call[6]..15:28) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2021-02-02T14:38:39.186 220042 channel_create_event:204: new channel 5 (function provider#clipboard#Call[6]..15:28) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2021-02-02T14:38:39.192 220042 on_process_exit:392: exited: pid=220330 status=0 stoptime=0
+INFO  2021-02-02T14:40:02.142 220042 channel_create_event:204: new channel 6 (function provider#clipboard#Call[6]..15:28) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2021-02-02T14:40:02.145 220042 on_process_exit:392: exited: pid=220351 status=0 stoptime=0
+INFO  2021-02-02T14:44:03.080 220042 emsg_multiline:681: E486: Pattern not found: eth
+INFO  2021-02-02T14:44:03.562 220042 emsg_multiline:681: E486: Pattern not found: eth
+INFO  2021-02-02T14:44:13.092 220042 emsg_multiline:681: E33: No previous substitute regular expression
+INFO  2021-02-02T14:44:13.092 220042 emsg_multiline:681: E476: Invalid command
+INFO  2021-02-02T14:46:09.066 220042 channel_create_event:204: new channel 7 (function provider#clipboard#Call[6]..15:28) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2021-02-02T14:46:09.072 220042 on_process_exit:392: exited: pid=220403 status=0 stoptime=0
+INFO  2021-02-02T14:48:29.858 220042 channel_create_event:204: new channel 8 (function provider#clipboard#Call[6]..15:28) : {"id": 8, "mode": "bytes", "stream": "job"}
+INFO  2021-02-02T14:48:29.863 220042 on_process_exit:392: exited: pid=220977 status=0 stoptime=0
+INFO  2021-02-02T14:54:28.001 220042 on_process_exit:392: exited: pid=221560 status=0 stoptime=0
+INFO  2021-02-02T14:54:28.020 220042 on_process_exit:392: exited: pid=221565 status=0 stoptime=0
+INFO  2021-02-02T14:54:28.052 220042 channel_create_event:204: new channel 9 (function fzf#vim#files[15]..<SNR>114_fzf[20]..fzf#run[59]..<SNR>36_execute_term:67) : {"id": 9, "mode": "terminal", "stream": "job", "pty": "/dev/pts/9", "buffer": 2}
+INFO  2021-02-02T14:54:30.420 220042 on_process_exit:392: exited: pid=221570 status=130 stoptime=0
+INFO  2021-02-02T14:54:31.496 220042 os_proc_tree_kill:96: sending SIGTERM to PID -220044
+INFO  2021-02-02T14:54:31.501 220042 on_process_exit:392: exited: pid=220044 status=143 stoptime=170789387792793
+INFO  2021-02-02T14:54:31.501 220042 os_exit:586: Nvim exit: 0
